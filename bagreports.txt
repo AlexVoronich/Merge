@@ -1,7 +1,7 @@
 vim bagreports.txt
 Bug ID: 123
-Build Number: Version Namber [D[D[D[D[u[C[C[C[C 5.0.1
-Environment: Windows 7, Chrome 31.0.1650.63 m
+Build Number: Version Namber
+Environment: Windows 7, Chrome 31.0.1650.63 
 Severity: High
 Priority: High
 Assigned to: Developer-X
